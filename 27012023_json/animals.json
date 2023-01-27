@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Giraffa",
+        "age": 2,
+        "color": "Orange",
+        "keeper": {
+            "name": "Tony",
+            "lastName": "Stark",
+            "address": {
+                "stret": "Balfor-3"
+            }
+        }
+    },
+    {
+        "name": "Snake",
+        "age": 8,
+        "color": "Red",
+        "keeper": [
+            {
+                "name": "Tony",
+                "lastName": "Stark",
+                "address": {
+                    "stret": "Balfor-3"
+                }
+            },
+            {
+                "name": "Sarah",
+                "lastName": "Conor"
+            }
+        ]
+    }
+]

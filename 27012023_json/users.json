@@ -1,0 +1,28 @@
+[
+    {
+        "fistName": "Sarah",
+        "lastName": "Conor",
+        "age": 20,
+        "isLegal": true,
+        "address": {
+            "street": "Afner",
+            "city": "tel-aviv",
+            "number": 23
+        }
+    },
+    {
+        "fistName": "Benjamin",
+        "lastName": "Franklin",
+        "age": 20,
+        "friends": [
+            {
+                "name": "Rusvilt",
+                "lastName": "Teodor"
+            },
+            {
+                "name": "Rusvilt",
+                "lastName": "Teodor"
+            }
+        ]
+    }
+]

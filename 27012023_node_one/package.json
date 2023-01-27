@@ -1,0 +1,13 @@
+{
+  "name": "27012023_node_one",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],  
+  "author": "",
+  "license": "ISC"
+}
